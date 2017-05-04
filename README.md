@@ -1,0 +1,3 @@
+# course-api
+
+this is a spring rest applictaion with hard coded data...
