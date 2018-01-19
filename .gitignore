@@ -20,4 +20,4 @@ build/
 nbbuild/
 dist/
 nbdist/
-.mvn
+.mvn/*
